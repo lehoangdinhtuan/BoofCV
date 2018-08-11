@@ -1,0 +1,1 @@
+Tìm vị trí từ hình cho trước. dùng  VisualizeAssociationScoreApp 
